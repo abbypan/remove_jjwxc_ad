@@ -1,0 +1,33 @@
+{
+    "createdBy": "Redirector v2.7.1",
+    "createdAt": "2015-01-13T06:12:38.409Z",
+    "redirects": [
+        {
+            "exampleUrl": "http://www.jjwxc.net/onebook.php?novelid=2456",
+            "description": "ljj-novel",
+            "includePattern": "http://www.jjwxc.net/onebook.php\\?novelid=(\\d+)$",
+            "excludePattern": "",
+            "redirectUrl": "http://m.jjwxc.net/book2/$1?more=1&whole=1",
+            "patternType": "R",
+            "disabled": false
+        },
+        {
+            "exampleUrl": "http://www.jjwxc.net/oneauthor.php?authorid=3243",
+            "description": "ljj-author",
+            "includePattern": "http://www.jjwxc.net/oneauthor.php\\?authorid=(\\d+)$",
+            "excludePattern": "",
+            "redirectUrl": "http://m.jjwxc.net/wapauthor/$1",
+            "patternType": "R",
+            "disabled": false
+        },
+        {
+            "exampleUrl": "http://m.jjwxc.net/book2/2456",
+            "description": "",
+            "includePattern": "http://m.jjwxc.net/book2/(\\d+)$",
+            "excludePattern": "",
+            "redirectUrl": "http://m.jjwxc.net/book2/$1?more=1&whole=1",
+            "patternType": "R",
+            "disabled": false
+        }
+    ]
+}
