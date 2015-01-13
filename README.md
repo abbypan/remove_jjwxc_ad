@@ -10,6 +10,8 @@
 
 [Stylish](https://addons.mozilla.org/en-US/firefox/addon/stylish/)
 
+[adblock plus](https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/)
+
 # Redirector 调整url
 
 Redirector 支持在打开**源url**之前，将url替换成指定目标样式，然后再载入网页内容
@@ -29,3 +31,9 @@ Redirector 支持在打开**源url**之前，将url替换成指定目标样式�
 # Stylish 调整网页样式
 
 安装样式：[绿晋江wap页调整](https://userstyles.org/styles/109299/wap)
+
+# adblock 移除广告
+
+订阅过滤规则：![adblock_china_list](adblock_china_list.png)
+
+自定义过滤规则：![adblock_jjwxc](adblock_jjwxc.png)
