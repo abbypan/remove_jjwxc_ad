@@ -34,8 +34,11 @@ Redirector 支持在打开**源url**之前，将url替换成指定目标样式�
 
 # adblock 移除广告
 
-订阅过滤规则：![adblock_china_list](adblock_china_list.png)
+订阅过滤规则
 
-自定义过滤规则：![adblock_jjwxc](adblock_jjwxc.png)
+![adblock_china_list](adblock_china_list.png)
 
-内容参考：[adblock_jjwxc.ini](adblock_jjwxc.ini)
+
+自定义过滤规则, 内容参考：[adblock_jjwxc.ini](adblock_jjwxc.ini)
+
+![adblock_jjwxc](adblock_jjwxc.png)
